@@ -129,7 +129,7 @@ _para consultar una lista más larga de software de audio oprima [aquí](https:/
 - [![Open-Source Software][oss icon]](https://github.com/quodlibet/quodlibet) [Quod Libet](https://quodlibet.readthedocs.io) - Un reproductor de medios GTK +, fue diseñado para grandes colecciones de música. Tiene algoritmos capaces de búsqueda y puede reproducir podcastos y radio del Internet.
 - [![Open-Source Software][oss icon]](https://github.com/ebruck/radiotray-ng) [RadioTray-NG](https://github.com/ebruck/radiotray-ng) - Un reproductor de medios de internet para Linux.
 - [![Open-Source Software][oss icon]](https://github.com/GNOME/rhythmbox) [Rhythmbox](https://wiki.gnome.org/Apps/Rhythmbox) - Un reproductor de medios de GNOME.
-- [![Open-Source Software][oss icon]](https://sayonara-player.com/downloads.php#Source) [Sayonara Player](https://sayonara-player.com/downloads.php) - Un pequeño y rápido reproductor de medios para Linux. Fue escrito en C ++, y es apoyado por el marco QT.
+- [![Open-Source Software][oss icon]](https://sayonara-player.com/downloads/#Source) [Sayonara Player](https://sayonara-player.com/downloads/) - Un pequeño y rápido reproductor de medios para Linux. Fue escrito en C ++, y es apoyado por el marco QT.
 - [![Open-Source Software][oss icon]](https://github.com/multani/sonata/) [Sonata](http://www.nongnu.org/sonata/) - Sonata es un reproductor de música con una interfaz fácil de usar, para reproducir su colección de música del "Music Player Daemon" (MPD).
 - [![Open-Source Software][oss icon]](https://launchpad.net/soundconverter/trunk/2.1.6) [Soundconverter](http://soundconverter.org/) - un popular convertidor de archivos de audio. Es fácil de usar, y muy rápido.
 - [![Open-Source Software][oss icon]](https://wiki.gnome.org/Apps/SoundJuicer) [SoundJuicer](http://www.howtogeek.com/howto/20126/rip-audio-cds-with-sound-juicer/) - una programa para Ripear uno CD para GNOME.
@@ -713,7 +713,7 @@ _para consultar una lista más larga de software de audio oprima [aquí](https:/
 
 - [![Open-Source Software][oss icon]](https://github.com/andreafeccomandi/bibisco) [Bibisco](http://www.bibisco.com/) - Un programa para escribir novelas que se centra en la creación de ideas y personajes.
 - [![Open-Source Software][oss icon]](https://github.com/olivierkes/manuskript) [Manuskript](http://www.theologeek.ch/manuskript/) - Manuskript es una herramienta para ayudar a un escritor a organizar y planificar antes de escribir.
-- [![Open-Source Software][oss icon]](https://github.com/jacquetc/plume-creator) [Plume Creator](http://plume-creator.eu/) - Un programa de código abierto para un autor que tiene un administrador de notas y un modo sin distracción.
+- [![Open-Source Software][oss icon]](https://github.com/jacquetc/skribisto) [Skribisto](www.skribisto.eu) - Software for writers
 - [![Open-Source Software][oss icon]](https://github.com/scribusproject/scribus) [Scribus](https://www.scribus.net/downloads/) - Es un programa para ayudar a publicar libros. Puede gestionar la tipografía y la preparación de archivos para equipos de configuración de imágenes.
 - [![Open-Source Software][oss icon]](https://github.com/trelby/trelby) [Trelby](http://www.trelby.org/) - Trelby es un simple, rápido y elegante diseño de software de guión.
 
@@ -754,7 +754,7 @@ _para consultar una lista más larga de software de audio oprima [aquí](https:/
 #### Tomar nota
 
 - [![Open-Source Software][oss icon]](https://github.com/KDE/basket) [Basket Note Pads](https://apps.kde.org/basket/) - Esta es una aplicación multiuso para tomar notas.
-- [![Open-Source Software][oss icon]](https://github.com/BoostIO/Boostnote) [Boostnote](https://boostnote.io/) - Boostnote es una aplicación de notas de código abierto diseñada para programadores.
+- [![Open-Source Software][oss icon]](https://github.com/BoostIO/BoostNote-App) [Boostnote](https://boostnote.io/) - Boostnote es una aplicación de notas de código abierto diseñada para programadores.
 - ![Nonfree][money icon] [Inkdrop](https://www.inkdrop.info/) - Una aplicación para tomar notas diseñadas para Markdown, tiene una interfaz simple y está orientado a la seguridad.
 - [![Open-Source Software][oss icon]](https://github.com/laurent22/joplin) [Joplin](http://joplin.cozic.net) - Una aplicación de toma de notas con una lista de tareas pendientes que se puede sincronizar en varios sistemas operativos.
 - [![Open-Source Software][oss icon]](https://sourceforge.net/p/nevernote/code/ci/master/tree/) [NixNote](https://sourceforge.net/projects/nevernote/) - Un cliente de código abierto para Evernote.
@@ -1039,7 +1039,7 @@ _para consultar una lista más larga de software de audio oprima [aquí](https:/
 
 ### Gestors de composiciónes
 
-- [![Open-Source Software][oss icon]](https://github.com/yshui/compton) [Compton](https://github.com/yshui/compton) - Compton es un gestor compuesto independiente, que puede trabajar con gestores de ventanas que no tienen composición.
+- [![Open-Source Software][oss icon]](https://github.com/yshui/picom) [Picom](https://github.com/yshui/picom) - Picom es un gestor compuesto independiente, que puede trabajar con gestores de ventanas que no tienen composición.
 - [![Open-Source Software][oss icon]](https://cgit.freedesktop.org/xorg/app/xcompmgr) [Xcompmgr](https://cgit.freedesktop.org/xorg/app/xcompmgr) - Xcompmgr es un gestor compuesto simple que puede renderizar, sombras, y otros efectos.
 
 ### Gestor de apilables

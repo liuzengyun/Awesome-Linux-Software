@@ -127,7 +127,7 @@ _สำหรับแหล่งทรัพยากรในหมวดห�
 - [![Open-Source Software][oss icon]](https://github.com/quodlibet/quodlibet) [Quod Libet](https://quodlibet.readthedocs.io) - GTK+ music player written with huge libraries in mind. Supports search-based dynamic playlists, regular expressions, tagging, Replay Gain, podcasts & Internet radio.
 - [![Open-Source Software][oss icon]](https://github.com/ebruck/radiotray-ng) [RadioTray-NG](https://github.com/ebruck/radiotray-ng) - โปรแกรมเล่นวิทยุออนไลน์สำหรับลินุกซ์
 - [![Open-Source Software][oss icon]](https://github.com/GNOME/rhythmbox) [Rhythmbox](https://wiki.gnome.org/Apps/Rhythmbox) - โปรแกรมเล่นเพลง พัฒนาโดย GNOME
-- [![Open-Source Software][oss icon]](https://sayonara-player.com/downloads.php#Source) [Sayonara Player](https://sayonara-player.com/downloads.php) - โปรแกรมเล่นไฟล์เสียง ขนาดกะทัดรัด และทำงานได้รวดเร็ว สำหรับลินุกซ์ พัฒนาโดยภาษา C++ และรองรับ Qt
+- [![Open-Source Software][oss icon]](https://sayonara-player.com/downloads/#Source) [Sayonara Player](https://sayonara-player.com/downloads/) - โปรแกรมเล่นไฟล์เสียง ขนาดกะทัดรัด และทำงานได้รวดเร็ว สำหรับลินุกซ์ พัฒนาโดยภาษา C++ และรองรับ Qt
 - [![Open-Source Software][oss icon]](https://launchpad.net/soundconverter/trunk/2.1.6) [Soundconverter](http://soundconverter.org/) - ผู้นำด้านการแปลงไฟล์เสียง โดยมีจุดหมายคือทำให้ใช้ง่ายและทำงานได้รวดเร็ว
 - [![Open-Source Software][oss icon]](https://wiki.gnome.org/Apps/SoundJuicer) [SoundJuicer](http://www.howtogeek.com/howto/20126/rip-audio-cds-with-sound-juicer/) - เครื่องมือแปลง CD เป็นไฟล์เสียงสำหรับ GNOME
 - [![Open-Source Software][oss icon]](https://github.com/Soundnode/soundnode-app) [Soundnode](https://soundnode.github.io/soundnode-website/) - โปรแกรมเล่น SoundCloud บนเดสก์ท็อป
@@ -714,7 +714,7 @@ _สำหรับแหล่งทรัพยากรในหมวดห�
 
 - [![Open-Source Software][oss icon]](https://github.com/andreafeccomandi/bibisco) [Bibisco](http://www.bibisco.com/) - A novel writing software with focus on ideas and characters.
 - [![Open-Source Software][oss icon]](https://github.com/olivierkes/manuskript) [Manuskript](http://www.theologeek.ch/manuskript/) - Manuskript is a perfect tool for those writer who like to organize and plan everything before writing.
-- [![Open-Source Software][oss icon]](https://github.com/jacquetc/plume-creator) [Plume Creator](http://plume-creator.eu/) - An open-source tool for novelist that gives you an outliner, a distraction-free mode, a note manager and much more.
+- [![Open-Source Software][oss icon]](https://github.com/jacquetc/skribisto) [Skribisto](www.skribisto.eu) - Software for writers
 - [![Open-Source Software][oss icon]](https://github.com/scribusproject/scribus) [Scribus](https://www.scribus.net/downloads/) - Scribus is a desktop publishing application designed for layout, typesetting, and preparation of files for professional-quality image-setting equipment. It can also create animated and interactive PDF presentations and forms.
 - [![Open-Source Software][oss icon]](https://github.com/trelby/trelby) [Trelby](http://www.trelby.org/) - Trelby is simple, fast and elegantly laid out to make screenwriting simple.
 
@@ -757,7 +757,7 @@ _สำหรับแหล่งทรัพยากรในหมวดห�
 #### Note Taking
 
 - [![Open-Source Software][oss icon]](https://github.com/KDE/basket) [Basket Note Pads](https://apps.kde.org/basket/) - This multi-purpose note-taking application helps you to easily take all sort of notes.
-- [![Open-Source Software][oss icon]](https://github.com/BoostIO/Boostnote) [Boostnote](https://boostnote.io/) - Boostnote is an open source note-taking app made for programmers just like you.
+- [![Open-Source Software][oss icon]](https://github.com/BoostIO/BoostNote-App) [Boostnote](https://boostnote.io/) - Boostnote is an open source note-taking app made for programmers just like you.
 - ![Nonfree][money icon] [Inkdrop](https://www.inkdrop.info/) - The Note-Taking App for Markdown Lovers with simple interface, seemless security and powerful APIs.
 - [![Open-Source Software][oss icon]](https://github.com/laurent22/joplin) [Joplin](http://joplin.cozic.net) - a note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS.
 - [![Open-Source Software][oss icon]](https://sourceforge.net/p/nevernote/code/ci/master/tree/) [NixNote](https://sourceforge.net/projects/nevernote/) - An open source client for Evernote.
@@ -813,7 +813,7 @@ _สำหรับแหล่งทรัพยากรในหมวดห�
 - [![Open-Source Software][oss icon]](https://git.gnupg.org/) [GnuPG](https://www.gnupg.org/) - GnuPG allows to encrypt and sign your data and communication, features a versatile key management system as well as access modules for all kinds of public key directories.
 - [![Open-Source Software][oss icon]](https://code.launchpad.net/gui-ufw) [GuFW](http://gufw.org/) - One of the easiest firewalls in the world of Linux.
 - [![Open-Source Software][oss icon]](https://github.com/firehol/iprange) [IPrange](https://github.com/firehol/iprange) - A very fast command line utility for processing IP lists (merge, compare, exclude, etc).
-- [![Open-Source Software][oss icon]](https://github.com/jarun/keysniffer) [keysniffer](https://github.com/jarun/keysniffer) - Linux kernel mode debugfs keylogger.
+- [![Open-Source Software][oss icon]](https://github.com/jarun/spy) [spy](https://github.com/jarun/spy) - Linux kernel mode debugfs keylogger.
 - [![Open-Source Software][oss icon]](https://github.com/CISOfy/lynis) [Lynis](https://cisofy.com/lynis/) - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.
 - [![Open-Source Software][oss icon]](https://www.openbsd.org/anoncvs.html) [OpenSSH](http://www.openssh.com/) - OpenSSH Secure Shell Server and Client
 - [![Open-Source Software][oss icon]](https://sourceforge.net/projects/passwordsafe/) [Password Safe](https://pwsafe.org/) - Password Safe allows you to safely and easily create a secured and encrypted user name/password list.
@@ -1048,7 +1048,7 @@ _สำหรับแหล่งทรัพยากรในหมวดห�
 
 ### Compositors
 
-- [![Open-Source Software][oss icon]](https://github.com/yshui/compton) [Compton](https://github.com/yshui/compton) - Compton is a standalone composite manager, suitable for use with window managers that do not natively provide compositing functionality.
+- [![Open-Source Software][oss icon]](https://github.com/yshui/picom) [Picom](https://github.com/yshui/picom) - Picom is a standalone composite manager, suitable for use with window managers that do not natively provide compositing functionality.
 - [![Open-Source Software][oss icon]](https://cgit.freedesktop.org/xorg/app/xcompmgr) [Xcompmgr](https://cgit.freedesktop.org/xorg/app/xcompmgr) - Xcompmgr is a simple composite manager capable of rendering drop shadows and, with the use of the transset utility, primitive window transparency.
 
 ### Stacking window managers

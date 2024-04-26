@@ -218,12 +218,12 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - [![Open-Source Software][oss icon]](https://github.com/pithos/pithos) [Pithos](https://pithos.github.io/) - A native Pandora client for Linux.
 - [![Open-Source Software][oss icon]](https://github.com/quodlibet/quodlibet) [Quod Libet](https://quodlibet.readthedocs.io) - GTK+ music player written with huge libraries in mind. Supports search-based dynamic playlists, regular expressions, tagging, Replay Gain, podcasts & Internet radio.
 - [![Open-Source Software][oss icon]](https://github.com/GNOME/rhythmbox) [Rhythmbox](https://wiki.gnome.org/Apps/Rhythmbox) - Music player from GNOME.
-- [![Open-Source Software][oss icon]](https://gitlab.com/luciocarreras/sayonara-player) [Sayonara Player](https://sayonara-player.com/downloads.php) - A small, clear and fast audio player for Linux written in C++, supported by the Qt framework.
+- [![Open-Source Software][oss icon]](https://gitlab.com/luciocarreras/sayonara-player) [Sayonara Player](https://sayonara-player.com/downloads/) - A small, clear and fast audio player for Linux written in C++, supported by the Qt framework.
 - [![Open-Source Software][oss icon]](https://github.com/multani/sonata/) [Sonata](https://www.nongnu.org/sonata/) - A Music player that is designed to be an elegant and intuitive interface for your music collection via the Music Player Daemon (MPD).
 - [![Open-Source Software][oss icon]](https://github.com/Soundnode/soundnode-app) [Soundnode](https://soundnode.github.io/soundnode-website/) - An open source SoundCloud app for desktop.
 - [![Open-Source Software][oss icon]](https://github.com/xou816/spot) [Spot](https://github.com/xou816/spot) - Native Spotify client for the GNOME desktop.
 - [Spotify](https://www.spotify.com/us/) - Spotify is the best way to listen to music and podcasts on pc, mobile or tablet.
-- [![Open-Source Software][oss icon]](https://github.com/krtirtho/spotube) [Spotube](https://spotube.netlify.app/) - Spotube is a Flutter based lightweight spotify client. It utilizes the power of Spotify & Youtube's public API & creates a hazardless, performant & resource friendly User Experience.
+- [![Open-Source Software][oss icon]](https://github.com/krtirtho/spotube) [Spotube](https://spotube.krtirtho.dev/) - Spotube is a Flutter based lightweight spotify client. It utilizes the power of Spotify & Youtube's public API & creates a hazardless, performant & resource friendly User Experience.
 - [![Open-Source Software][oss icon]](https://github.com/strawberrymusicplayer/strawberry) [Strawberry](https://www.strawberrymusicplayer.org/) - Strawberry is a fork of Clementine aimed at music collectors and audiophiles. It's written in C++ using the Qt toolkit.
 - [![Open-Source Software][oss icon]](https://github.com/Mastermindzh/tidal-hifi) [Tidal-hifi](https://github.com/Mastermindzh/tidal-hifi) - The web version of Tidal running in electron with hifi support thanks to widevine.
 - [![Open-Source Software][oss icon]](https://github.com/th-ch/youtube-music) [Youtube-Music](https://th-ch.github.io/youtube-music/) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
@@ -383,7 +383,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - [![Open-Source Software][oss icon]](https://github.com/bilelmoussaoui/Hardcode-Tray) [Hardcode Tray](https://github.com/bilelmoussaoui/Hardcode-Tray) - This script fixes hardcoded tray icons in Linux by automatically detecting your default theme, the right icon size, the hard-coded applications, the right icons for each indicator and fix them.
 - [![Open-Source Software][oss icon]](https://github.com/LemonBoy/bar) [Lemonbar](https://github.com/LemonBoy/bar) - Super fast, lightweight, and mnml status bar for Linux.
 - [![Open-Source Software][oss icon]](https://github.com/realmazharhussain/gdm-settings) [Login Manager Settings](https://realmazharhussain.github.io/gdm-settings/) - A settings app for GNOME's Login Manager, GDM.
-- [![Open-Source Software][oss icon]](https://github.com/themix-project/oomox) [Oomox theme generator](https://github.com/themix-project/oomox) - A Graphical application for generating different color variations of a Numix-based and Flat-Plat themes (GTK2, GTK3), GNOME-Colors and Archdroid icons.
+- [![Open-Source Software][oss icon]](https://github.com/themix-project/themix-gui) [Themix GUI designer](https://github.com/themix-project/themix-gui) - A Graphical application for generating different color variations of Oomox (Numix-based) and Materia (ex-Flat-Plat) themes (GTK2, GTK3, Cinnamon, GNOME, Openbox, Xfwm), Archdroid, Gnome-Color, Numix, Papirus and Suru++ icon themes.
 - [![Open-Source Software][oss icon]](https://www.opencode.net/dfn2/pling-store-development) [Pling Store](https://www.pling.com/) - Desktop app of openDesktop.org, which is one of the largest communities where developers and artists share applications, themes and other content.
 - [![Open-Source Software][oss icon]](https://github.com/jaagr/polybar) [Polybar](https://polybar.github.io/) - Fast and easy-to-use status bar.
 - [![Open-Source Software][oss icon]](https://github.com/deviantfero/wpgtk) [Wpgtk](https://deviantfero.github.io/wpgtk) - A universal theming software for all themes defined in text files, compatible with all terminals, with default themes for GTK2, GTK+, openbox and Tint2 that uses pywal as it's core for colorscheme generation.
@@ -415,6 +415,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - [![Open-Source Software][oss icon]](https://github.com/dbcli/mycli) [MyCLI](https://www.mycli.net/) - MyCLI is a command line interface for MySQL, MariaDB, and Percona with auto-completion and syntax highlighting.
 - [![Open-Source Software][oss icon]](https://github.com/mysql/mysql-server) [MySQL](https://dev.mysql.com/doc/refman/5.7/en/linux-installation.html) - MySQL is the world's leading open source database thanks to its proven performance, reliability and ease-of-use. It is used by high profile web properties including Facebook, Twitter, YouTube, Yahoo! and many more.
 - [![Open-Source Software][oss icon]](https://github.com/mysql/mysql-workbench) [MySQL Workbench](https://www.mysql.com/products/workbench/) - MySQL Workbench is a unified visual tool for database architects, developers, and DBAs. MySQL Workbench provides data modeling, SQL development, and comprehensive administration tools for server configuration, user administration, backup, and much more.
+- [![Open-Source Software][oss icon]](https://github.com/oceanbase/oceanbase) [OceanBase](https://github.com/oceanbase/oceanbase) - Distributed relational database. Based on the Paxos protocol and its distributed structure, it provides high availability and linear scalability.
 - [![Open-Source Software][oss icon]](https://github.com/OmniDB/OmniDB) [OmniDB](https://github.com/OmniDB/OmniDB) - Browser-based tool that visually create, manage, and view databases.
 - ![Non Free][money icon] [OracleDB](https://www.oracle.com/technetwork/database/enterprise-edition/downloads/index.html) - Object-relational database management system produced and marketed by Oracle Corporation, one of the most trusted and widely-used relational database engines.
 - [![Open-Source Software][oss icon]](https://github.com/percona/percona-server-mongodb) [Percona MongoDB](https://www.percona.com/software/mongo-database/percona-server-for-mongodb) - Percona Server for MongoDB provides all features and benefits of MongoDB Community Server.
@@ -570,7 +571,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - [![Open-Source Software][oss icon]](https://github.com/martahilmar/gnome-books) [GNOME Books](https://github.com/martahilmar/gnome-books) - GNOME Books is application for listing, searching and reading eBooks.
 - [![Open-Source Software][oss icon]](https://www.willus.com/k2pdfopt/src) [K2pdfopt](https://www.willus.com/k2pdfopt) - K2pdfopt optimizes PDF/DJVU files for mobile e-readers (e.g. the Kindle) and smartphones.
 - [![Open-Source Software][oss icon]](https://codeberg.org/valos/Komikku) [Komikku](https://apps.gnome.org/Komikku/) - Manga reader with support for online and offline reading, automatic downloads, locally stored manga formats (CBZ and CBR formats), and collection organization features.
-- [Lucidor](https://www.lucidor.org/lucidor/) - Lucidor is a computer program for reading and handling e-books. Lucidor supports e-books in the EPUB file format, and catalogs in the OPDS format.
+- [Lucidor](https://lucidor.org/lucidor/) - Lucidor is a computer program for reading and handling e-books. Lucidor supports e-books in the EPUB file format, and catalogs in the OPDS format.
 - [MasterPDF editor](https://code-industry.net/free-pdf-editor/) - Master PDF Editor a convenient and smart PDF editor for Linux.
 - [![Open-Source Software][oss icon]](https://sourceforge.net/p/mcomix/git/ci/master/tree/) [Mcomix](https://sourceforge.net/projects/mcomix/) - GTK+ comic book viewer.
 - [![Open-Source Software][oss icon]](http://git.ghostscript.com/?p=mupdf.git;a=summary) [MuPDF](https://mupdf.com/) - A lightweight PDF and XPS viewer.
@@ -736,7 +737,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - [Ryzom](https://ryzom.com/) - Free and open-source 3D MMORPG with unique features and deep lore. The official servers allow free accounts as well as paid subscriptions with extra features.
 - [![Open-Source Software][oss icon]](https://te4.org/) [Tales of Maj'Eyal](https://te4.org/) - Tales of Maj’Eyal (ToME) is a free, open source roguelike RPG, featuring tactical turn-based combat and advanced character building.
 - [![Open-Source Software][oss icon]](https://gitlab.com/veloren/veloren) [Veloren](https://veloren.net/) - Veloren is a multiplayer voxel RPG written in Rust. It is inspired by games such as Cube World, Legend of Zelda: Breath of the Wild, Dwarf Fortress and Minecraft.
-- [![Open-Source Software][oss icon]](https://github.com/ArmageddonGames/ZeldaClassic) [Zelda Classic](https://www.zeldaclassic.com/) - A tribute to Nintendo's The Legend of Zelda with additional quests, items and challenges.
+- [![Open-Source Software][oss icon]](https://github.com/ZeldaClassic/ZeldaClassic) [Zelda Classic](https://www.zeldaclassic.com/) - A tribute to Nintendo's The Legend of Zelda with additional quests, items and challenges.
 - [![Open-Source Software][oss icon]](https://gitlab.com/solarus-games/) [Zelda: Mystery of Solarus DX](http://www.solarus-games.org) - A direct sequel to The Legend of Zelda: A Link to the Past on the SNES, using the same graphics and game mechanisms.
 
 #### RTS
@@ -841,7 +842,6 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 ##### Nintendo
 
 - [![Open-Source Software][oss icon]](https://github.com/cemu-project/Cemu) [Cemu](https://cemu.info/) - Software to emulate Wii U games and applications on PC.
-- [![Open-Source Software][oss icon]](https://github.com/citra-emu/citra) [Citra](https://citra-emu.org/) - Citra is an open-source emulator for the Nintendo 3DS capable of playing many of your favorite games.
 - [![Open-Source Software][oss icon]](https://github.com/TASEmulators/desmume) [DeSmuME](https://desmume.org/) - DeSmuME is a Nintendo DS emulator.
 - [![Open-Source Software][oss icon]](https://github.com/dolphin-emu/dolphin) [Dolphin Emulator](https://dolphin-emu.org/) - Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements.
 - [![Open-Source Software][oss icon]](https://github.com/Arisotura/melonDS) [melonDS](https://melonds.kuribo64.net/) - melonDS aims at providing fast and accurate Nintendo DS emulation.
@@ -849,8 +849,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - [![Open-Source Software][oss icon]](https://github.com/0ldsk00l/nestopia) [nestopia](http://0ldsk00l.ca/nestopia/) - nestopia is a Nintendo Entertainment System/Famicon emulator.
 - [![Open-Source Software][oss icon]](https://github.com/Ryujinx/Ryujinx) [Ryujinx](https://ryujinx.org/) - Ryujinx is an open-source Nintendo Switch emulator created by gdkchan and written in C#.
 - [![Open-Source Software][oss icon]](https://github.com/snes9xgit/snes9x) [Snes9x](http://www.snes9x.com/) - Is a multiplatform Super Nintendo Entertainment System emulator that has gone through many incarnations, but is still being actively developed.
-- [![Open-Source Software][oss icon]](https://github.com/visualboyadvance-m/visualboyadvance-m) [Visual Boy Advance-M](https://vba-m.com/) - A Gameboy and Gameboy Advance Emulator that is still undergoing active development and can even emulate a system link between two gameboys.
-- [![Open-Source Software][oss icon]](https://github.com/yuzu-emu/yuzu) [yuzu](https://yuzu-emu.org/) - yuzu is an experimental open-source emulator for the Nintendo Switch from the creators of Citra.
+- [![Open-Source Software][oss icon]](https://github.com/visualboyadvance-m/visualboyadvance-m) [Visual Boy Advance-M](https://www.visualboyadvance-m.org/) - A Gameboy and Gameboy Advance Emulator that is still undergoing active development and can even emulate a system link between two gameboys.
 - [![Open-Source Software][oss icon]](https://sourceforge.net/projects/zsnes/) [ZSNES](https://www.zsnes.com/) - A capable and commonly used Super Nintendo Entertainment System/Super Famicom emulator, many consider it the gold standard in SNES/Super Famicom emulation.
 
 ##### Sony
@@ -916,7 +915,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - [![Open-Source Software][oss icon]](https://invent.kde.org/graphics/digikam) [Digikam](https://www.digikam.org/) - DigiKam is an advanced digital photo management application for Linux.
 - [![Open-Source Software][oss icon]](https://github.com/szTheory/exifcleaner) [ExifCleaner](https://exifcleaner.com) - Remove image metadata with drag and drop. Supports multi-core batch processing.
 - [![Open-Source Software][oss icon]](http://git.finalrewind.org/feh) [Feh](https://feh.finalrewind.org/) - Lightweight and fast image viewer.
-- [![Open-Source Software][oss icon]](http://www.kornelix.net/downloads/downloads.html) [Fotoxx](https://www.kornelix.net/fotoxx/fotoxx.html) - Fotoxx is a free open source Linux program for image editing and collection management.
+- [![Open-Source Software][oss icon]](http://www.kornelix.net/downloads/downloads.html) [Fotocx](https://www.kornelix.net/fotocx/fotocx.html) - Fotocx is a free open source Linux program for image editing and collection management.
 - [![Open-Source Software][oss icon]](https://github.com/BestImageViewer/geeqie) [geeqie](http://www.geeqie.org/) - Image viewer / photo collection browser. Successor of GQview.
 - [![Open-Source Software][oss icon]](https://gitlab.gnome.org/GNOME/gthumb/) [gThumb](https://wiki.gnome.org/Apps/Gthumb) - gThumb is an image viewer and browser (it also includes an importer tool for transferring photos from cameras).
 - [![Open-Source Software][oss icon]](https://invent.kde.org/graphics/gwenview) [gwenview](https://apps.kde.org/gwenview/) - Simple yet powerful image viewer and management for KDE desktops.
@@ -1076,7 +1075,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 
 - [![Open-Source Software][oss icon]](https://github.com/andreafeccomandi/bibisco) [Bibisco](http://www.bibisco.com/) - A novel writing software with focus on ideas and characters.
 - [![Open-Source Software][oss icon]](https://github.com/olivierkes/manuskript) [Manuskript](https://www.theologeek.ch/manuskript/) - Manuskript is a perfect tool for those writer who like to organize and plan everything before writing.
-- [![Open-Source Software][oss icon]](https://github.com/jacquetc/plume-creator) [Plume Creator](https://plume-creator.eu/) - An open-source tool for novelist that gives you an outliner, a distraction-free mode, a note manager and much more.
+- [![Open-Source Software][oss icon]](https://github.com/jacquetc/skribisto) [Skribisto](www.skribisto.eu) - Software for writers
 - [![Open-Source Software][oss icon]](https://github.com/scribusproject/scribus) [Scribus](https://www.scribus.net/downloads/) - Scribus is a desktop publishing application designed for layout, typesetting, and preparation of files for professional-quality image-setting equipment. It can also create animated and interactive PDF presentations and forms.
 - [![Open-Source Software][oss icon]](https://github.com/trelby/trelby) [Trelby](https://www.trelby.org/) - Trelby is simple, fast and elegantly laid out to make screenwriting simple.
 
@@ -1125,9 +1124,10 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 
 #### Note Taking
 
+- [![Open-Source Software][oss icon]](https://github.com/anyproto/anytype-ts) [Anytype](https://download.anytype.io/) - A multi-platform, open-source, local-first, personal knowledge base tool.
 - [![Open-Source Software][oss icon]](https://basket-notepads.github.io/download.html) [Basket Note Pads](https://basket-notepads.github.io/) - This multi-purpose note-taking application helps you to easily take all sort of notes.
 - [![Open-Source Software][oss icon]](https://github.com/Daniele-rolli/Beaver-Notes) [Beaver Notes](https://beavernotes.com) - A multi-platform, open-source, privacy-first, community-driven, note-taking app and personal knowledge manager.
-- [![Open-Source Software][oss icon]](https://github.com/BoostIO/Boostnote) [Boostnote](https://boostnote.io/) - Boostnote is an open source note-taking app made for programmers just like you.
+- [![Open-Source Software][oss icon]](https://github.com/BoostIO/BoostNote-App) [Boostnote](https://boostnote.io/) - Boostnote is an open source note-taking app made for programmers just like you.
 - [![Open-Source Software][oss icon]](https://github.com/giuspen/cherrytree) [Cherrytree](https://www.giuspen.com/cherrytree/) - A hierarchical note taking application, featuring rich text and syntax highlighting, storing data in a single xml or sqlite file.
 - ![Nonfree][money icon] [Inkdrop](https://inkdrop.app/) - The Note-Taking App for Markdown Lovers with simple interface, seemless security and powerful APIs.
 - [![Open-Source Software][oss icon]](https://github.com/laurent22/joplin) [Joplin](https://joplinapp.org/) - A note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS.
@@ -1139,7 +1139,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - [Obsidian](https://obsidian.md/) - Obsidian is a powerful knowledge base on top of a local folder of plain text Markdown files.
 - [![Open-Source Software][oss icon]](https://github.com/patrikx3/onenote) [OneNote](https://www.corifeus.com/onenote) - Linux Electron OneNote.
 - [![Open-Source Software][oss icon]](http://orgmode.org/) [Org mode](https://orgmode.org/) - Org mode is for keeping notes, maintaining TODO lists, planning projects, and authoring documents with a fast and effective plain-text system.
-- [![Open-Source Software][oss icon]](https://github.com/alainm23/planner) [Planner](https://useplanner.com/) - Planner keeps track of all your tasks, projects, and goals in one beautifully simple place.
+- [![Open-Source Software][oss icon]](https://github.com/alainm23/planify) [Planify](https://github.com/alainm23/planify) - Task manager with Todoist and Nextcloud support designed for GNU/Linux 
 - [![Open-Source Software][oss icon]](https://github.com/pbek/QOwnNotes) [QOwnNotes](https://www.qownnotes.org/) - QOwnNotes is a plain-text file notepad and todo-list manager with markdown support and ownCloud / Nextcloud integration.
 - [Simplenote](https://simplenote.com/) - A Cross platform notetaking app and Evernote competitor.
 - [![Open-Source Software][oss icon]](https://github.com/spsdco/notes) [Springseed](https://github.com/spsdco/notes) - Simple and beautiful note taking app for daily user.
@@ -1269,7 +1269,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - [![Open-Source Software][oss icon]](https://firehol.org/tutorial/fireqos-new-user/) [FireQoS](https://docs.netdata.cloud/collectors/tc.plugin/#tcplugin) - Linux QoS (`tc`) manager for humans.
 - [![Open-Source Software][oss icon]](https://git.gnupg.org/) [GnuPG](https://www.gnupg.org/) - GnuPG allows to encrypt and sign your data and communication, features a versatile key management system as well as access modules for all kinds of public key directories.
 - [![Open-Source Software][oss icon]](https://github.com/firehol/iprange) [IPrange](https://github.com/firehol/iprange) - A very fast command line utility for processing IP lists (merge, compare, exclude, etc).
-- [![Open-Source Software][oss icon]](https://github.com/jarun/keysniffer) [keysniffer](https://github.com/jarun/keysniffer) - Linux kernel mode debugfs keylogger.
+- [![Open-Source Software][oss icon]](https://github.com/jarun/spy) [spy](https://github.com/jarun/spy) - Linux kernel mode debugfs keylogger.
 - [![Open-Source Software][oss icon]](https://github.com/CISOfy/lynis) [Lynis](https://cisofy.com/lynis/) - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.
 - [![Open-Source Software][oss icon]](https://gitlab.gnome.org/World/obfuscate/) [Obfuscate](https://apps.gnome.org/app/com.belmoussaoui.Obfuscate/) - Obfuscate lets you redact your private information from any image.
 - [![Open-Source Software][oss icon]](https://www.openbsd.org/anoncvs.html) [OpenSSH](https://www.openssh.com/) - OpenSSH Secure Shell Server and Client.
@@ -1293,7 +1293,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 #### Download Manager
 
 - [![Open-Source Software][oss icon]](https://github.com/aria2/aria2) [aria2](https://aria2.github.io/) - aria2 is a lightweight multi-protocol & multi-source command-line download utility.
-- [![Open-Source Software][oss icon]](https://github.com/setvisible/DownZemAll) [DownZemAll](https://setvisible.github.io/DownZemAll/) - DownZemAll! is a mass download manager for Windows, Mac OS X and Linux. It helps you to select, organize, prioritize and run your downloads in parallel.
+- [![Open-Source Software][oss icon]](https://github.com/setvisible/ArrowDL) [ArrowDL](https://www.arrow-dl.com/) - ArrowDL is a mass download manager for Windows, Mac OS X and Linux. It helps you to select, organize, prioritize and run your downloads in parallel.
 - [Flareget](https://flareget.com/) - Full featured, multi-threaded download manager and accelerator.
 - [Free Download Manager](https://www.freedownloadmanager.org/) - Free Download Manager is a powerful modern cross-platform download accelerator and organizer for Windows, Mac and Linux.
 - [JDownloader](https://jdownloader.org/) - JDownloader is a free download management tool with a huge community of developers that makes downloading as easy and fast as it should be.
@@ -1381,6 +1381,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - [![Open-Source Software][oss icon]](https://sourceforge.net/p/bluefish/code/HEAD/tree/trunk/bluefish/) [Bluefish](http://bluefish.openoffice.nl/index.html) - Bluefish is a powerful editor targeted towards programmers and web developers, with many options to write websites, scripts and programming code.
 - [![Open-Source Software][oss icon]](https://github.com/adobe/brackets) [Brackets](http://brackets.io/) - A modern text editor that understands web design.
 - [![Open-Source Software][oss icon]](https://github.com/Alexey-T/CudaText) [CudaText](https://cudatext.github.io/) - CudaText is a cross-platform text editor, written in Object Pascal.
+- ![Nonfree][freeware icon]![Nonfree][money icon] [Fleet](https://www.jetbrains.com/fleet) - The Code Editor and IDE for Any Language.
 - [![Open-Source Software][oss icon]](https://www.geany.org/Download/Git) [Geany](https://www.geany.org/) - Geany is a text editor using the GTK+ toolkit with basic features of an integrated development environment. It was developed to provide a small and fast IDE, which has only a few dependencies from other packages.
 - [![Open-Source Software][oss icon]](https://gitlab.gnome.org/GNOME/gedit) [Gedit](https://wiki.gnome.org/Apps/Gedit) - Gedit is the GNOME text editor. While aiming at simplicity and ease of use, gedit is a powerful general purpose text editor.
 - [![Open-Source Software][oss icon]](https://github.com/GNOME/gnome-builder) [GNOME Builder](https://wiki.gnome.org/Apps/Builder) - Powerful IDE for modern C / C++ / Bash / JavaScript development, made by Gnome Team. One of the best IDE for C/C++ development (Cmake integrated).
@@ -1721,7 +1722,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 
 ### Compositors
 
-- [![Open-Source Software][oss icon]](https://github.com/yshui/compton) [Compton](https://github.com/yshui/compton) - Compton is a standalone composite manager, suitable for use with window managers that do not natively provide compositing functionality.
+- [![Open-Source Software][oss icon]](https://github.com/yshui/picom) [Picom](https://github.com/yshui/picom) - Picom is a standalone composite manager, suitable for use with window managers that do not natively provide compositing functionality.
 - [![Open-Source Software][oss icon]](https://github.com/Plagman/gamescope) [Gamescope](https://github.com/Plagman/gamescope) - Gamescope is a micro-compositor that provides a sandboxed Xwayland desktop with independent input, resolution, and refresh rate.
 - [![Open-Source Software][oss icon]](https://github.com/hyprwm/Hyprland) [Hyprland](https://hyprland.org/) - Hyprland is a dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
 - [![Open-Source Software][oss icon]](https://github.com/riverwm/river) [River](https://github.com/riverwm/river) - River is a dynamic tiling Wayland compositor with flexible runtime configuration.
